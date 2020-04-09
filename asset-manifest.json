@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smwillson.github.io/monsters-search/static/css/main.e366d042.chunk.css",
+    "main.js": "/smwillson.github.io/monsters-search/static/js/main.57fdbc19.chunk.js",
+    "main.js.map": "/smwillson.github.io/monsters-search/static/js/main.57fdbc19.chunk.js.map",
+    "runtime-main.js": "/smwillson.github.io/monsters-search/static/js/runtime-main.69f0240d.js",
+    "runtime-main.js.map": "/smwillson.github.io/monsters-search/static/js/runtime-main.69f0240d.js.map",
+    "static/js/2.a6bff23a.chunk.js": "/smwillson.github.io/monsters-search/static/js/2.a6bff23a.chunk.js",
+    "static/js/2.a6bff23a.chunk.js.map": "/smwillson.github.io/monsters-search/static/js/2.a6bff23a.chunk.js.map",
+    "index.html": "/smwillson.github.io/monsters-search/index.html",
+    "precache-manifest.45c0978620ecf930309090876625a9e9.js": "/smwillson.github.io/monsters-search/precache-manifest.45c0978620ecf930309090876625a9e9.js",
+    "service-worker.js": "/smwillson.github.io/monsters-search/service-worker.js",
+    "static/css/main.e366d042.chunk.css.map": "/smwillson.github.io/monsters-search/static/css/main.e366d042.chunk.css.map",
+    "static/js/2.a6bff23a.chunk.js.LICENSE.txt": "/smwillson.github.io/monsters-search/static/js/2.a6bff23a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/smwillson.github.io/monsters-search/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f0240d.js",
+    "static/js/2.a6bff23a.chunk.js",
+    "static/css/main.e366d042.chunk.css",
+    "static/js/main.57fdbc19.chunk.js"
+  ]
+}
